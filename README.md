@@ -116,7 +116,6 @@
   <img alt="a snake animation eating my contribution graph" src="https://raw.githubusercontent.com/ethanBeMe-dev/ethanBeMe-dev/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<sub>⚠️ Needs a one-time GitHub Action to generate — see setup steps.</sub>
 </div>
 
 <br/>
