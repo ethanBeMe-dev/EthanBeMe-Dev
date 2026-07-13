@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Welcome%20To%20My%20Profile!&fontSize=70&animation=twinkling" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FE4A49&center=true&vCenter=true&width=600&lines=Master+Prompter+Extraordinaire;Full-Stack+Developer;Building+cool+things+with+code;Always+down+to+collaborate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FE4A49&center=true&vCenter=true&width=600&lines=Master+Prompter+Extraordinaire;Full-Stack+Pompter;Building+cool+things+with+prompt;Always+down+to+prompt;yo mamma" alt="Typing SVG" />
 </a>
 
 <br/>
