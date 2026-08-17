@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Ethan%20%7C%20Agentic%20Architect&fontSize=48&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Ethan%20%7C%20Agentic%20Orchestrator&fontSize=42&animation=twinkling" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=FE4A49&center=true&vCenter=true&width=650&lines=High-Frequency+Agentic+Orchestration;Sipping+ceremonial-grade+Uji+matcha+at+78%C2%B0C;Artisanal+zero-dependency+Python+monoliths;10-year+Unreal+Engine+systems+veteran;Ambidextrous+open-handed+dowel+blast+beats;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=FE4A49&center=true&vCenter=true&width=650&lines=High-Frequency+Agentic+Orchestrator;Sipping+ceremonial-grade+Uji+matcha+at+78%C2%B0C;Steering+frontier+LLMs+with+epistemic+rigour;Artisanal+zero-dependency+monoliths;10-Year+Computational+Systems+Veteran;" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/ethanBeMe-dev"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Attire-Black_Turtleneck-2C2C2C?style=for-the-badge&logo=appveyor&logoColor=white" alt="Aesthetic" /></a>
+<a href="https://github.com/ethanBeMe-dev"><img src="https://img.shields.io/badge/Aesthetic-Black_Turtleneck-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Fuel-Ceremonial_Matcha-4C6444?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Matcha" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Silicon-Intel_NUC_16GB-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="NUC" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Discipline-Zero_Hallucination-5856D6?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Architecture-Clean_Monoliths-0071C5?style=for-the-badge&logo=python&logoColor=white" alt="Monolith" /></a>
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 <p align="center">
   <a href="#-the-manifesto">The Manifesto</a> ·
   <a href="#-the-machinery">The Machinery</a> ·
-  <a href="#-artisanal-works">Artisanal Works</a> ·
+  <a href="#-agentic-paradigms">Paradigms</a> ·
   <a href="#-the-philosophy">The Philosophy</a>
 </p>
 
@@ -36,20 +36,20 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Currently Manifesting
-- 🔭 **Founding:** `Kiwi Heritage Data` *(B2B Vehicle Intelligence Monolith)*
-- 🧠 **Methodology:** `High-Frequency Multi-Agent Prompt Engineering`
-- 🎯 **Silicon Ceiling:** `Sub-15MB RAM footprint on legacy Intel NUC`
-- ⚡ **Neurological Loop:** `Decoupling bilateral limbs with open-handed dowel strikes`
+### 🚀 Agentic Specialisation
+- 🧠 **Discipline:** `Deterministic Multi-Agent Orchestration`
+- 🎯 **Methodology:** `Strict Context Boundary Injection & MCP Tooling`
+- ⚡ **Execution:** `Fail-Loud, Atomic, and Idempotent Pipelines`
+- 🛡️ **Anti-Pattern:** `Third-party npm bloat and sloppy zero-shot prompts`
 
 </td>
 <td width="50%" valign="top">
 
-### 🍵 Discourse & Epistemology
+### 🍵 The Persona & Discourse
 - ☕ **Optimal State:** `Single-origin Uji matcha whisked at exactly 78°C`
-- 🎮 **Decade Flex:** `10 years of volumetric shaders & procedural Houdini graphs`
-- 🛡️ **Anti-Pattern:** `Zero npm bloat. If it needs 400 dependencies, it's not architecture.`
-- 🎶 **Sonic Palate:** `Testament, Strapping Young Lad, Avenged Sevenfold`
+- 🎮 **Engineering Roots:** `10 years of volumetric shaders & procedural systems`
+- 📜 **Lexicon:** `ASD-STE100 Simplified Technical English & PEP 8`
+- 🕶️ **Vibe:** `Minimalist turtleneck, dark mode, terminal-only purity`
 
 </td>
 </tr>
@@ -61,27 +61,27 @@
 
 <div align="center">
 
-**Languages & Shell**
+**Agentic & Core Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=py,cpp,bash,linux,md,html,css&perline=10" />
 
 <br/><br/>
 
-**Engines, Data & Tooling**
+**Systems, Data & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=unreal,sqlite,git,github,vscode,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=unreal,sqlite,git,github,vscode,docker&perline=10" />
 
 </div>
 
 <br/>
 
-## 🏛️ Artisanal Works
+## 🏛️ Agentic Paradigms
 
-| System | Paradigm | Architecture | Status |
-|---|---|---|---|
-| **Kiwi Heritage Data (KHD)** | B2B Vehicle Intelligence & Ingestion | `Python 3.14 Monolith · DuckDB · SQLite` | *Staging Invariant Alpha* |
-| **Procedural Biome Synthesis** | 10-Year Technical Art & Volumetric Shaders | `Unreal Engine 4 · Houdini · Gaea` | *Mastered* |
-| **Bilateral Autonomy Metronome** | Neurological Limb Decoupling Engine | `Wooden Dowels · Open-Handed Strike System` | *Continuous Execution* |
+| Vector | Focus | Architectural Invariant |
+|---|---|---|
+| **Autonomous Swarms** | Model Context Protocol (MCP) Integration | `Strict Single-Turn Authorization & Sandboxing` |
+| **High-Precision Prompting** | Epistemic Rigour & Context Optimization | `Zero Hallucination Tolerance · Falsifiable Prompts` |
+| **Clean Systems Monoliths** | Low-Overhead Data Streaming | `Minimal RAM Ceilings · Zero Speculative Bloat` |
 
 <br/>
 
@@ -89,8 +89,7 @@
 
 <div align="center">
 
-> *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*  
-> — **Antoine de Saint-Exupéry**
+> *"I don't write code anymore; I sculpt cognitive potential out of high-temperature token distributions over a morning bowl of stone-ground ceremonial matcha."*
 
 </div>
 
@@ -111,6 +110,6 @@
 
 <hr/>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
+<p align="center"><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="footer" />
